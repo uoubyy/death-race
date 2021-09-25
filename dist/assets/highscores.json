@@ -1,0 +1,9 @@
+{
+	"TopScoresToShow": 10,
+	"Scores": [
+		{
+			"Name": "Player",
+			"Score": 100
+		}
+	]
+}
